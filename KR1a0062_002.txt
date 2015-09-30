@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易學啟蒙通釋
-#+DATE: 2015-09-23 09:34:46
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:56:01.491912
+#+PROPERTY: ID KR1a0062
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下
 <pb:KR1a0062_WYG_002-1a>¶
 欽定四庫全書¶
 　易學啟䝉通釋卷下¶
@@ -1408,4 +1410,3 @@
 　¶
 　¶
 　易學啟蒙通釋卷下¶
-
